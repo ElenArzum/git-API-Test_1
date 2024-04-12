@@ -27,7 +27,7 @@
             "car_type2": null
         },
         {
-            "text": " test2 ",
+            "text": "",
             "date": "09/11/2021",
             "date-time": "02/01/2024 02:00",
             "time": "13:00",
@@ -43,7 +43,6 @@
             "car_type2": "coupe"
         },
         {
-            "text": "",
             "date": "03/01/2024",
             "date-time": "03/01/2024 03:00",
             "time": "03:12",
@@ -51,14 +50,14 @@
             "numeric": "-3,549.00",
             "price": "",
             "phone": " (333)0000000 ",
-            "zip": "30000-123",
+            "zip": "",
             "email": "email@gmail.com",
             "flightNumber": "<span class=\"cutoff\" title=\"Paris CDG\">Paris CDG</span>",
             "car_type": "Minivan",
             "car_type1": "SUV"
         },
         {
-            "text": "~`!@#$%^&*()_-+=*{}[];':|><.,?",
+            "text": null,
             "date": "04/01/2024",
             "date-time": "04/01/2024 23:59",
             "time": "04:00",
