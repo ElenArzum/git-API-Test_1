@@ -43,7 +43,8 @@
             "flightNumber": "<span class=\"cutoff\" title=\"Frankfurt\">Frankfurt</span>",
             "car_type": "Sedan",
             "car_type1": " SUV  ",
-            "car_type2": "coupe"
+            "car_type2": "coupe",
+            "aro": ""
         },
         {
             "date": "03/01/2024",
@@ -58,7 +59,8 @@
             "email": "email@gmail.com",
             "flightNumber": "<span class=\"cutoff\" title=\"Paris CDG\">Paris CDG</span>",
             "car_type": "Minivan",
-            "car_type1": "SUV"
+            "car_type1": "SUV",
+            "aro": null
         },
         {
             "text": null,
@@ -73,7 +75,8 @@
             "zip": "400000000",
             "email": "email@gmail.com",
             "flightNumber": "",
-            "car_type": "coupe"
+            "car_type": "coupe",
+            "aro": ""
         },
         {
             "text": null,
@@ -87,7 +90,8 @@
             "zip": 12345,
             "email": "email@gmail.com",
             "flightNumber": "",
-            "car_type": "pickup truck"
+            "car_type": "pickup truck",
+            "aro": ""
         },
         {
             "text": "test6",
@@ -100,7 +104,8 @@
             "phone": "(666)000-0000",
             "zip": "600",
             "email": "email@gmail.com",
-            "flightNumber": ""
+            "flightNumber": "",
+            "aro": ""
         }
     ]
 }
