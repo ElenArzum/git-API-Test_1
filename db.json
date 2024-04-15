@@ -25,7 +25,8 @@
             "image_unknown3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQCYCG3BEc6wgzCbe6te-aeLlY3dM5C-In5w&usqp=CAU",
             "car_type": "SUV",
             "car_type1": "",
-            "car_type2": null
+            "car_type2": null,
+            "aro": "test1"
         },
         {
             "text": "",
