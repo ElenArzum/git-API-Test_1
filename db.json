@@ -2,6 +2,7 @@
     "table": [
         {
             "text": "test1",
+            "text_1": "test1",
             "date": "09/11/2021 00:00:00",
             "date-time": "01/01/2024 01:00:23 PM",
             "date-time_1": "01/01/2024 01:00:23",
@@ -10,8 +11,10 @@
             "numeric": "1",
             "price": "0.00",
             "phone": 1110000000,
-            "zip": " 10000-0000 ",
+            "zip": " 10000-0000",
+            "zip_1": " 10000-0000",
             "email": "email@@gmail.com",
+            "email_1": "email@@gmail.com",
             "flightNumber": "<span class=\"cutoff\" title=\"Berlin Brandenburg\">Berlin Brandenburg</span>",
             "imageBig": "https://upload.wikimedia.org/wikipedia/commons/c/c7/5_56_49_am_.....a_ship.jpg",
             "image_unknown": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWG1RkW0G0MYRwszqTvVo3ZGw9NzQmG_Ye4CmSGEvfog&s",
@@ -30,6 +33,7 @@
         },
         {
             "text": "",
+            "text_1": "empty_test",
             "date": "09/11/2021",
             "date-time": "01/01/2024 02:00:23 PM",
             "date-time_1": "03/01/2024 01:00:23",
@@ -39,7 +43,9 @@
             "price": "2,5252",
             "phone": "+1(222)000-0000",
             "zip": null,
+            "zip_1": null,
             "email": "email@gmail.com",
+            "email_1": "email@gmail.com",
             "flightNumber": "<span class=\"cutoff\" title=\"Frankfurt\">Frankfurt</span>",
             "car_type": "Sedan",
             "car_type1": " SUV  ",
@@ -48,6 +54,7 @@
         },
         {
             "text": "test3",
+            "text_1": "   test3  ",
             "date": "03/01/2024",
             "date-time": "01/01/2024 02:00:23 AM",
             "date-time_1": "03/01/2024 08:00:23",
@@ -57,7 +64,9 @@
             "price": "",
             "phone": " (333)0000000 ",
             "zip": "12345",
+            "zip_1": "12345",
             "email": null,
+            "email_1": "132456@gmail.com",
             "flightNumber": "<span class=\"cutoff\" title=\"Paris CDG\">Paris CDG</span>",
             "car_type": "Minivan",
             "car_type1": "SUV",
@@ -65,6 +74,7 @@
         },
         {
             "text": "test4",
+            "text_1": "test4",
             "date": "04/01/2024",
             "date-time": "05/01/2024 02:00:23 AM",
             "date-time_1": "03/04/2024 08:00:23",
@@ -74,13 +84,16 @@
             "price": "4,444.00",
             "phone": "(444)000-0000",
             "zip": "41234-5000",
+            "zip_1": "41234-5500",
             "email": "email@gmail.am",
+            "email_1": "email@gmail.am",
             "flightNumber": "",
             "car_type": "coupe",
             "aro": ""
         },
         {
             "text": null,
+            "text_1": "",
             "date": "05/01/2024",
             "date-time": "05/01/2024 15:59:50 AM",
             "time": "13:00",
@@ -89,13 +102,16 @@
             "price": " -5,254.00 ",
             "phone": "(555)000-0000",
             "zip": 123451234,
+            "zip_1": 123451234,
             "email": "email@gmail.com",
+            "email_1": "12email@gmail.com",
             "flightNumber": "",
             "car_type": "pickup truck",
             "aro": ""
         },
         {
             "text": "test6",
+            "text_1": "test6",
             "date": "",
             "date-time": "06/01/2024 06:00",
             "time": "06:00",
@@ -104,12 +120,15 @@
             "price": "$66.00",
             "phone": null,
             "zip": "12345-6789",
+            "zip_1": "22345-6789",
             "email": "email@gmail.com",
+            "email_1": "email@gmail.com",
             "flightNumber": "",
             "aro": ""
         },
         {
             "text": "test7",
+            "text_1": "test7.1",
             "date": "",
             "date-time": "06/01/2024 06:00",
             "time": "06:00",
@@ -118,12 +137,15 @@
             "price": null,
             "phone": "(333) 000-0000",
             "zip": "12345-0098",
+            "zip_1": "12345-0098",
             "email": "email@gmail.com",
+            "email_1": "",
             "flightNumber": "",
             "aro": ""
         },
         {
             "text": "test8",
+            "text_1": "!@##_test8",
             "date": "",
             "date-time": "06/01/2024 06:00",
             "time": "06:00",
@@ -132,12 +154,14 @@
             "price": "$66.00",
             "phone": "",
             "zip": "53215",
+            "zip_1": "  53215 ",
             "email": "",
             "flightNumber": "",
             "aro": ""
         },
         {
             "text": "!!test?",
+             "text_1": "!!test?ccccccccccccc",
             "date": "",
             "date-time": "06/01/2024 06:00",
             "time": "06:00",
@@ -146,7 +170,9 @@
             "price": "$0.00",
             "phone": "(666)000-0000",
             "zip": "",
+            "zip_1": null
             "email": "email@mail.com",
+            "email_1": "email@mail.com",
             "flightNumber": "",
             "aro": ""
         }
