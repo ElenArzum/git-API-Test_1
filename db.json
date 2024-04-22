@@ -56,7 +56,7 @@
             "numeric": "-3,549.00",
             "price": "",
             "phone": " (333)0000000 ",
-            "zip": "12",
+            "zip": "12345",
             "email": null,
             "flightNumber": "<span class=\"cutoff\" title=\"Paris CDG\">Paris CDG</span>",
             "car_type": "Minivan",
@@ -131,7 +131,7 @@
             "numeric": "-0.6666",
             "price": "$66.00",
             "phone": "",
-            "zip": "53215-0098",
+            "zip": "53215",
             "email": "",
             "flightNumber": "",
             "aro": ""
