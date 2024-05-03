@@ -98,6 +98,7 @@
             "zip_1": "41234-5500",
             "email": "email@gmail.am",
             "email_1": "email",
+            "bool": true,
             "flightNumber": "",
             "car_type": "coupe",
             "aro": ""
@@ -118,6 +119,7 @@
             "zip_1": 123451234,
             "email": "email@gmail.com",
             "email_1": "12email@gmail.com",
+            "bool": true,
             "flightNumber": "",
             "car_type": "pickup truck",
             "aro": ""
@@ -138,6 +140,7 @@
             "zip_1": "22345-6789",
             "email": "email@gmail.com",
             "email_1": "email@gmail.com",
+            "bool": true,
             "flightNumber": "",
             "aro": ""
         },
@@ -157,6 +160,7 @@
             "zip_1": "12345-0098",
             "email": "email@gmail.com",
             "email_1": "",
+            "bool": false,
             "flightNumber": "",
             "aro": ""
         },
@@ -175,6 +179,7 @@
             "zip": "53215",
             "zip_1": "  53215 ",
             "email": "",
+            "bool": true,
             "flightNumber": "",
             "aro": ""
         },
@@ -194,6 +199,7 @@
             "zip_1": null,
             "email": "email@mail.com",
             "email_1": "email@mail.com",
+            "bool": true,
             "flightNumber": "",
             "aro": ""
         }
