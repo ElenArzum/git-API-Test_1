@@ -31,7 +31,7 @@
             "car_type2": null,
             "aro": "test1",
             "textjnjel": "test1",
-            "html": "<h1>The b element</h1>."   
+            "html": "<h1>The b element</h1>."
         },
         {
             "text": "",
@@ -81,7 +81,7 @@
             "flightNumber": "<span class=\"cutoff\" title=\"Paris CDG\">Paris CDG</span>",
             "car_type": "Minivan",
             "car_type1": "SUV",
-            "html": "aa<img src="images/stickman.gif" width="24" height="39" alt="Stickman">aa"
+            "html": "aa<img src=\"images/stickman.gif\" width=\"24\" height=\"39\" alt=\"Stickman\">aa"
         },
         {
             "text": "test4",
@@ -145,7 +145,7 @@
             "email_1": "email@gmail.com",
             "bool": true,
             "flightNumber": "",
-            "html": "check<input type="submit" value="Submit">"
+            "html": "check<input type=\"submit\" value=\"Submit\">"
         },
         {
             "text": "test7",
@@ -188,7 +188,7 @@
         },
         {
             "text": "!!test?",
-             "text_1": "!!test?ccccccccccccc",
+            "text_1": "!!test?ccccccccccccc",
             "date": "",
             "date-time": "06/01/2024 06:00",
             "time": "06:00",
