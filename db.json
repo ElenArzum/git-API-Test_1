@@ -31,7 +31,7 @@
             "car_type2": null,
             "aro": "test1",
             "textjnjel": "test1",
-            "textjnjel1": "IBC to claims csr.<br /><br />PH called asking if we can provide a copy of all the payments we have issued to the clmt.<br />Asked her for the reason, she said it's bec. she's trying to register a new car &amp; there's a hold bec. of some past payments that aren't made. One of the payments she mentioned was 983 USD.<br />Adv will notify the adj about this &amp; someone will reach out once they have what you need.<br />Caller understood.<br /><br />Phone:&nbsp;916-450-3017<br /><br />Setting diary."   
+            "html": "<h1>The b element</h1>."   
         },
         {
             "text": "",
@@ -57,7 +57,7 @@
             "car_type": "Sedan",
             "car_type1": " SUV  ",
             "car_type2": "coupe",
-            "aro": ""
+            "html": "check <b>and this is bold text</b>."
         },
         {
             "text": null,
@@ -81,7 +81,7 @@
             "flightNumber": "<span class=\"cutoff\" title=\"Paris CDG\">Paris CDG</span>",
             "car_type": "Minivan",
             "car_type1": "SUV",
-            "aro": null
+            "html": "<img src="images/stickman.gif" width="24" height="39" alt="Stickman">"
         },
         {
             "text": "test4",
@@ -104,7 +104,7 @@
             "bool": true,
             "flightNumber": "",
             "car_type": "coupe",
-            "aro": ""
+            "html": "<ul> <li>User <bdi>hrefs</bdi>: 60 points</li> <li>User <bdi>jdoe</bdi>: 80 points</li> <li>User <bdi>إيان</bdi>: 90 points</li> </ul>"
         },
         {
             "text": null,
@@ -125,7 +125,7 @@
             "bool": true,
             "flightNumber": "",
             "car_type": "pickup truck",
-            "aro": ""
+            "html": "<p>This is some <u>mispeled</u> text.</p>"
         },
         {
             "text": "test6",
@@ -145,7 +145,7 @@
             "email_1": "email@gmail.com",
             "bool": true,
             "flightNumber": "",
-            "aro": ""
+            "html": "check<input type="submit" value="Submit">"
         },
         {
             "text": "test7",
@@ -165,7 +165,7 @@
             "email_1": "",
             "bool": false,
             "flightNumber": "",
-            "aro": ""
+            "html": "<summary>Epcot Center</summary>"
         },
         {
             "text": "test8",
@@ -184,7 +184,7 @@
             "email": "",
             "bool": true,
             "flightNumber": "",
-            "aro": ""
+            "html": "<strong>This text is important!</strong>"
         },
         {
             "text": "!!test?",
@@ -204,7 +204,7 @@
             "email_1": "email@mail.com",
             "bool": true,
             "flightNumber": "",
-            "aro": ""
+            "html": "<p>My favorite color is <del>blue</del> <ins>red</ins>!</p>"
         }
     ]
 }
