@@ -33,7 +33,7 @@
             "image_big":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Snake_River_%285mb%29.jpg/2560px-Snake_River_%285mb%29.jpg",
             "image_svg":"https://www.svgrepo.com/show/532036/cloud-rain-alt.svg",
             "car_type2": null,
-            "aro": "u200Btest1u200B",
+            "aro": "\u200Btest1\u200B",
             "textjnjel": "aro_is",
             "html": "<h1>The b element   </h1>."
         },
