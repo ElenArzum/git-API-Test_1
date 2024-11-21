@@ -32,7 +32,11 @@
             "image_jpg_testing": "https://png.pngtree.com/element_our/20200702/ourmid/pngtree-small-url-icon-opened-in-the-browser-image_2291957.jpg",
             "image_big":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Snake_River_%285mb%29.jpg/2560px-Snake_River_%285mb%29.jpg",
             "image_svg":"https://www.svgrepo.com/show/532036/cloud-rain-alt.svg",
-            "car_type2": null,
+            "car_types": [
+        "Sedan",
+        "SUV",
+        "Coupe"
+    ],
             "aro": "\u200Btest1\u200B",
             "textjnjel": "aro_is",
             "html": "<h1>The b element   </h1>."
@@ -58,7 +62,12 @@
             "email_1": "email1@gmail.com",
             "bool": true,
             "flightNumber": "<span class=\"cutoff\" title=\"Frankfurt\">Frankfurt</span>",
-            "car_type": "Sedan",
+            "car_types": [
+        "Sedan",
+        "SUV",
+        "Coupe",
+        "Coupe151",
+    ],
             "car_type1": " SUV  ",
             "car_type2": "coupe",
             "html": "check <b>and this is bold text</b>."
