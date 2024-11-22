@@ -30,13 +30,17 @@
             "image_png": "https://www.adobe.com/es/express/feature/image/remove-background/png/media_16ad2258cac6171d66942b13b8cd4839f0b6be6f3.png?width=750&format=png&optimize=medium",
             "image_jpeg": "https://cl-data.tech-suite.com/25_19_06_2024_06_27_50.jpeg",
             "image_jpg_testing": "https://png.pngtree.com/element_our/20200702/ourmid/pngtree-small-url-icon-opened-in-the-browser-image_2291957.jpg",
-            "image_big":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Snake_River_%285mb%29.jpg/2560px-Snake_River_%285mb%29.jpg",
-            "image_svg":"https://www.svgrepo.com/show/532036/cloud-rain-alt.svg",
+            "image_big": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Snake_River_%285mb%29.jpg/2560px-Snake_River_%285mb%29.jpg",
+            "image_svg": "https://www.svgrepo.com/show/532036/cloud-rain-alt.svg",
+            "maybelline": "maybelline",
             "car_types": [
-        "Sedan",
-        "SUV",
-        "Coupe"
-    ],
+                {
+                    "num1": "Sedan0.52",
+                    "numeric_2": -0.002,
+                    "price": 2500,
+                    "price_1": "2,5252"
+                }
+            ],
             "aro": "\u200Btest1\u200B",
             "textjnjel": "aro_is",
             "html": "<h1>The b element   </h1>."
@@ -62,12 +66,15 @@
             "email_1": "email1@gmail.com",
             "bool": true,
             "flightNumber": "<span class=\"cutoff\" title=\"Frankfurt\">Frankfurt</span>",
+            "maybelline": "glossier",
             "car_types": [
-        "Sedan",
-        "SUV",
-        "Coupe",
-        "Coupe151"
-    ],
+                {
+                    "num1": "Sedan0",
+                    "numeric_2": -0.002,
+                    "price": 2500,
+                    "price_1": "2,5252"
+                }
+            ],
             "car_type1": " SUV  ",
             "car_type2": "coupe",
             "html": "check <b>and this is bold text</b>."
@@ -94,6 +101,7 @@
             "flightNumber": "<span class=\"cutoff\" title=\"Paris CDG\">Paris CDG</span>",
             "car_type": "Minivan",
             "car_type1": "SUV",
+            "maybelline": "colourpop",
             "html": "aa<img src=\"images/stickman.gif\" width=\"24\" height=\"39\" alt=\"Stickman\">aa"
         },
         {
@@ -138,7 +146,15 @@
             "bool": true,
             "flightNumber": "",
             "car_type": "pickup truck",
-            "html": "<p>This is some <u>mispeled</u> text.</p>"
+            "html": "<p>This is some <u>mispeled</u> text.</p>",
+            "car_types": [
+                {
+                    "num1": "Sedan3",
+                    "numeric_2": -0.002,
+                    "price": 2500,
+                    "price_1": "2,5252"
+                }
+            ]
         },
         {
             "text": "test6",
