@@ -21,6 +21,7 @@
                 "zip_1": " 10000-0000",
                 "email": "email@@gmail.com",
                 "email_1": "email@@gmail.com",
+                "Ashot": "email@gmail.com",
                 "bool": true,
                 "image_jpg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/481px-Cat03.jpg",
                 "flightNumber": "<span class=\"cutoff\" title=\"Berlin Brandenburg\">Berlin Brandenburg</span>",
@@ -209,9 +210,10 @@
                 "price": null,
                 "phone": null,
                 "zip": null,
+                "Ashot": "email@gmail.com",
                 "zip_1": null,
                 "email": null,
-                "bool": null,
+                "bool": true,
                 "flightNumber": "",
                 "html": "<strong>This text is important!</strong>"
             }
