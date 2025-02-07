@@ -69,6 +69,7 @@
                 "bool": true,
                 "flightNumber": "<span class=\"cutoff\" title=\"Frankfurt\">Frankfurt</span>",
                 "maybelline": "glossier",
+                "image_svg": "https://www.irs.gov/pub/irs-pdf/f1040.pdf",
                 "product_colors": [
                     {
                         "text": "test1",
