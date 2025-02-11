@@ -24,7 +24,7 @@
                 "Ashot": "email@gmail.com",
                 "bool": true,
                 "image_jpg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/481px-Cat03.jpg",
-                "html": "<textarea id="w3review" name="w3review" rows="4" cols="50">At w3schools.com you will learn how to make a website. They offer free tutorials in all web development technologies.</textarea>",
+                "html": "<textarea id=\"w3review\" name=\"w3review\" rows=\"4\" cols=\"50\">At w3schools.com you will learn how to make a website. They offer free tutorials in all web development technologies.</textarea>",
                 "image_gif": "https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif?fit=450%2C250&ssl=1",
                 "image_unknown": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWG1RkW0G0MYRwszqTvVo3ZGw9NzQmG_Ye4CmSGEvfog&s",
                 "image_bmp": "https://www.janome.com/inspire/Embroidery/penguin-bmp-design-from-digitizer-10000/penguin-bmp-design-from-digitizer-10000/dig10k_penguin.bmp",
@@ -64,16 +64,7 @@
                 "Ashot": "email@gmail.com",
                 "zip": null,
                 "zip_1": null,
-                "html":"<table>
-  <tr>
-    <th>Month</th>
-    <th>Savings</th>
-  </tr>
-  <tr>
-    <td>January</td>
-    <td>$100</td>
-  </tr>
-</table>",
+                "html": "<table><tr><th>Month</th><th>Savings</th></tr><tr><td>January</td><td>$100</td></tr></table>",
                 "email": "1email@gmail.com",
                 "email_1": "email1@gmail.com",
                 "bool": true,
@@ -114,7 +105,7 @@
                 "bool": true,
                 "flightNumber": "",
                 "car_type": "coupe",
-                "html": "<ul> <li>User <bdi>hrefs</bdi>: 60 points</li> <li>User <bdi>jdoe</bdi>: 80 points</li> <li>User <bdi>إيان</bdi>: 90 points</li> </ul>",
+                "html": "<h1>The br element</h1>",
                 "product_colors": [
                     {
                         "text": "test1",
@@ -146,7 +137,7 @@
                 "bool": true,
                 "flightNumber": "",
                 "car_type": "pickup truck",
-                "html": "<p>This is some <u>mispeled</u> text.</p>",
+                "html": "<ul><li>User <bdi>hrefs</bdi>: 60 points</li><li>User <bdi>jdoe</bdi>: 80 points</li><li>User <bdi>إيان</bdi>: 90 points</li></ul>",
                "product_colors": [
                     {
                         "text": null,
@@ -173,33 +164,7 @@
                 "phone": null,
                 "zip": "12345-6789",
                 "zip_1": "22345-6789",
-                 "html": "<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-</style>
-</head>
-<body>
-
-<h1>The td element</h1>
-
-<p>The td element defines a cell in a table:</p>
-
-<table>
-  <tr>
-    <td>Cell A</td>
-    <td>Cell B</td>
-  </tr>
-  <tr>
-    <td>Cell C</td>
-    <td>Cell D</td>
-  </tr>
-</table>
-
-</body>
-</html>",
+                "html": "<p>This is some <u>mispeled</u> text.</p>",
                 "email": "email@gmail.com",
                 "email_1": "email@gmail.com",
                 "bool": true,
@@ -231,6 +196,7 @@ table, th, td {
                 "phone": "(333) 000-0000",
                 "zip": "12345-0098",
                 "zip_1": "12345-0098",
+                "html": "<html><head><style>table, th, td { border: 1px solid black; }</style></head><body><h1>The td element</h1><p>The td element defines a cell in a table:</p><table><tr><td>Cell A</td><td>Cell B</td></tr><tr><td>Cell C</td><td>Cell D</td></tr></table></body></html>",
                 "email": "email@gmail.com",
                 "email_1": "",
                 "bool": false,
