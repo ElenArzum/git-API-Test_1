@@ -108,7 +108,6 @@
                 "maybelline1": "",
                 "flightNumber": "",
                 "car_type": "coupe",
-                "html": "<h1>The br element</h1>",
                 "product_colors": [
                     {
                         "text": "test1",
@@ -174,7 +173,6 @@
                 "bool": true,
                 "maybelline1": null,
                 "flightNumber": "",
-                "html": "check<input type=\"submit\" value=\"Submit\">",
                  "product_colors": [
                     {
                         "text": "",
@@ -201,9 +199,6 @@
                 "phone": "(333) 000-0000",
                 "zip": "12345-0098",
                 "zip_1": "12345-0098",
-                "html": "<html><head><style>table, th, td { border: 1px solid black; }</style></head><body><h1>The td element</h1><p>The td element defines a cell in a table:</p><table><tr><td>Cell A</td><td>Cell B</td></tr><tr><td>Cell C</td><td>Cell D</td></tr></table></body></html>",
-                "email": "email@gmail.com",
-                "email_1": "",
                 "bool": false,
                 "maybelline1": "colourpop",
                 "flightNumber": "",
